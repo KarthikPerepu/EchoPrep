@@ -1,0 +1,23 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# node
+node_modules/
+frontend/dist/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# local-only: planning notes, editor/tool config, build cache
+prep/
+.claude/
+*.tsbuildinfo
