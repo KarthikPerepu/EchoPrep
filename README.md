@@ -11,7 +11,7 @@ Most prep chatbots forget you the moment the tab closes. EchoPrep's agents don't
 - 🟣 **Tutor**: explains topics *your* way and finds the root cause of a weakness
 - 🟠 **Planner**: keeps a shared task board for the other agents
 
-> 🎬 Demo video: _add link_ · 🌐 Live demo: **https://prepmate-q443.onrender.com** (free tier: the first visit after idle takes ~1 minute to wake up)
+> 🎬 Demo video: _add link_ · 🌐 Live demo: **https://echoprep-j84h.onrender.com** (free tier: the first visit after idle takes ~1 minute to wake up)
 
 ---
 
